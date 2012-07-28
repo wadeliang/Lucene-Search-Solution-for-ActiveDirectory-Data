@@ -1,0 +1,89 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+   <title>由Node.js和Lucene驱动的人员搜索</title>
+   <script src="Scripts/jquery-1.4.1.js" type="text/javascript" language="javascript"></script>
+   <script language="javascript" type="text/javascript">
+   var JavaScriptNewGuid =
+	{
+	    NewGuid:function()
+		{
+		   return (this.S4()+this.S4()+"-"+this.S4()+"-"+this.S4()+"-"+this.S4()+"-"+this.S4()+this.S4()+this.S4());
+		},
+		
+		S4:function()
+		{
+		   return (((1+Math.random())*0x10000)|0).toString(16).substring(1);
+		}
+		
+	};
+   
+   $(document).ready(function(){
+      alert(JavaScriptNewGuid.NewGuid());
+   });
+
+    function addLongPollingError(type, msg) {
+        
+         
+        var spilitMsg = msg.split('\r\n');
+        for(var i=0;i<spilitMsg.length;i++)
+        {
+           try{
+            var jsonData = jQuery.parseJSON(spilitMsg[i]);
+                    $("#DebugLabel").append("<div class='msg " + type + "'>" + jsonData.AccountName + "</div>");
+            }
+            catch(err)
+            {}
+            
+         }
+        }
+   
+      var isPolling = 0;
+      function longPolling()
+      {
+        isPolling++;
+            $.ajax({
+                type: "GET",
+                url: "/NodeSite/hello.js?term="+escape($("#SearchText").val()), // one minute
+                //async: true, 
+                cache: false,
+                //timeout:12000,
+
+                success: function (data) {
+                    isPolling--;
+                    if (data != null) {
+                        addLongPollingError("", data);
+                    }
+
+                    if (data.match("end"))
+                    {
+                      
+                    }else{setTimeout("longPolling()", 0);}
+                    //else
+                        //addLongPollingError("error", "Error on server side. Received data: \"" + data + "\"");
+                },
+                error: function (XMLHttpRequest, textStatus, errorThrown) {
+                    isPolling--;
+                    addLongPollingError("error", textStatus + " (" + errorThrown + ")");
+                }
+            });
+      }
+   
+   function clearDivHtml()
+   {
+     $("#DebugLabel").html("");
+   }
+   
+   
+   </script>
+   <body>
+    <form id="form">
+    <div>
+       <button type='Button' onClick='clearDivHtml();longPolling();'>Search again</button>
+       <input type="text" style="border-width:1px; border-color:#ccc" id="SearchText"></input>
+       <div id="DebugLabel">
+       </div>
+    </div>
+    </form>
+</body>
+ </head>
+</html>
