@@ -1,0 +1,829 @@
+﻿
+
+DistinguishedName : CN=Guest,CN=Users,DC=ifcloud,DC=com
+Enabled           : False
+GivenName         : 
+Name              : GuestWade123(Update3)
+ObjectClass       : user
+ObjectGUID        : 4425e7a5-4764-4217-9bf9-86d5d379eacf
+SamAccountName    : Guest
+SID               : S-1-5-21-2300934295-2590698982-43176629-501
+Surname           : 
+UserPrincipalName : 
+
+DistinguishedName : CN=krbtgt,CN=Users,DC=ifcloud,DC=com
+Enabled           : False
+GivenName         : 
+Name              : krbtgt(wade liang2)
+ObjectClass       : user
+ObjectGUID        : 1620b843-c99e-4ea1-af91-71154d90e045
+SamAccountName    : krbtgt
+SID               : S-1-5-21-2300934295-2590698982-43176629-502
+Surname           : 
+UserPrincipalName : 
+
+DistinguishedName : CN=IFCLOUDADMIN,OU=SERVICEACCOUNT,OU=INTERNAL,DC=ifcloud,DC
+                    =com
+Enabled           : True
+GivenName         : 
+Name              : IFCLOUDADMIN(dsadsad123)
+ObjectClass       : user
+ObjectGUID        : 4e0a217e-a977-4b54-b3c8-1d68c4d81bb6
+SamAccountName    : ifcloudadmin
+SID               : S-1-5-21-2300934295-2590698982-43176629-500
+Surname           : 
+UserPrincipalName : ifcloudadmin@ifcloud.com
+
+DistinguishedName : CN=SCVMMSERVICE,OU=SERVICEACCOUNT,OU=INTERNAL,DC=ifcloud,DC
+                    =com
+Enabled           : True
+GivenName         : SCVMMSERVICE
+Name              : SCVMMSERVICE
+ObjectClass       : user
+ObjectGUID        : db98c2de-36d0-4e20-af37-7a145ffbc2d3
+SamAccountName    : scvmmservice
+SID               : S-1-5-21-2300934295-2590698982-43176629-1109
+Surname           : 
+UserPrincipalName : scvmmservice@ifcloud.com
+
+DistinguishedName : CN=SystemMailbox{1f05a927-1358-4d17-bff2-7ed9d4a3a83a},CN=U
+                    sers,DC=ifcloud,DC=com
+Enabled           : False
+GivenName         : 
+Name              : SystemMailbox{1f05a927-1358-4d17-bff2-7ed9d4a3a83a}
+ObjectClass       : user
+ObjectGUID        : 17c54619-c4c5-44a6-a2e6-eb1682a095d1
+SamAccountName    : SM_c128088f1c8941b69
+SID               : S-1-5-21-2300934295-2590698982-43176629-1142
+Surname           : MSExchApproval 1f05a927-3be2-4fb9-aa03-b59fe3b56f4c
+UserPrincipalName : SystemMailbox{1f05a927-1358-4d17-bff2-7ed9d4a3a83a}@ifcloud
+                    .com
+
+DistinguishedName : CN=SystemMailbox{e0dc1c29-89c3-4034-b678-e6c29d823ed9},CN=U
+                    sers,DC=ifcloud,DC=com
+Enabled           : False
+GivenName         : 
+Name              : SystemMailbox{e0dc1c29-89c3-4034-b678-e6c29d823ed9}
+ObjectClass       : user
+ObjectGUID        : 58eeb13c-2822-49a6-894c-fb6cc25b806f
+SamAccountName    : SM_18c787477d3644419
+SID               : S-1-5-21-2300934295-2590698982-43176629-1143
+Surname           : MsExchDiscovery e0dc1c29-89c3-4034-b678-e6c29d823ed9
+UserPrincipalName : SystemMailbox{e0dc1c29-89c3-4034-b678-e6c29d823ed9}@ifcloud
+                    .com
+
+DistinguishedName : CN=DiscoverySearchMailbox {D919BA05-46A6-415f-80AD-7E09334B
+                    B852},CN=Users,DC=ifcloud,DC=com
+Enabled           : False
+GivenName         : 
+Name              : DiscoverySearchMailbox {D919BA05-46A6-415f-80AD-7E09334BB85
+                    2}
+ObjectClass       : user
+ObjectGUID        : def83462-25b9-4968-8bf8-8e787700081e
+SamAccountName    : SM_dc891c6287664f988
+SID               : S-1-5-21-2300934295-2590698982-43176629-1144
+Surname           : MsExchDiscoveryMailbox D919BA05-46A6-415f-80AD-7E09334BB852
+UserPrincipalName : DiscoverySearchMailbox {D919BA05-46A6-415f-80AD-7E09334BB85
+                    2}@ifcloud.com
+
+DistinguishedName : CN=FederatedEmail.4c1f4d8b-8179-4148-93bf-00a95fa1e042,CN=U
+                    sers,DC=ifcloud,DC=com
+Enabled           : False
+GivenName         : 
+Name              : FederatedEmail.4c1f4d8b-8179-4148-93bf-00a95fa1e042
+ObjectClass       : user
+ObjectGUID        : a2dd9f24-0929-49d7-b8b0-653638e98a67
+SamAccountName    : SM_bb18805f764e48c4a
+SID               : S-1-5-21-2300934295-2590698982-43176629-1145
+Surname           : FederatedEmail.4c1f4d8b-8179-4148-93bf-00a95fa1e042
+UserPrincipalName : FederatedEmail.4c1f4d8b-8179-4148-93bf-00a95fa1e042@ifcloud
+                    .com
+
+DistinguishedName : CN=Asher Fang,OU=user,OU=resource,OU=itfirst,OU=CLOUD,DC=if
+                    cloud,DC=com
+Enabled           : True
+GivenName         : Asher
+Name              : Asher Fang
+ObjectClass       : user
+ObjectGUID        : b155e744-47df-49c2-a7fd-97304c461ca3
+SamAccountName    : itfirst_asherf
+SID               : S-1-5-21-2300934295-2590698982-43176629-1156
+Surname           : Fang
+UserPrincipalName : asherf@it-first.com.cn
+
+DistinguishedName : CN=Adams Qu,OU=user,OU=resource,OU=itfirst,OU=CLOUD,DC=ifcl
+                    oud,DC=com
+Enabled           : True
+GivenName         : Adams
+Name              : Adams Qu
+ObjectClass       : user
+ObjectGUID        : 6667d1a3-addd-44f0-8d27-a81a990b8a3b
+SamAccountName    : itfirst_adamsq
+SID               : S-1-5-21-2300934295-2590698982-43176629-1158
+Surname           : Qu
+UserPrincipalName : adamsq@it-first.com.cn
+
+DistinguishedName : CN=Wade Liang,OU=user,OU=resource,OU=itfirst,OU=CLOUD,DC=if
+                    cloud,DC=com
+Enabled           : True
+GivenName         : Wade
+Name              : Wade Liang
+ObjectClass       : user
+ObjectGUID        : ce3678bb-8caa-49c8-8aa4-6756872edf38
+SamAccountName    : itfirst_wadel
+SID               : S-1-5-21-2300934295-2590698982-43176629-1159
+Surname           : Liang
+UserPrincipalName : wadel@it-first.com.cn
+
+DistinguishedName : CN=Nick Wang,OU=user,OU=resource,OU=itfirst,OU=CLOUD,DC=ifc
+                    loud,DC=com
+Enabled           : True
+GivenName         : Nick
+Name              : Nick Wang
+ObjectClass       : user
+ObjectGUID        : 4962a3aa-44c8-404c-9f47-970de41471f4
+SamAccountName    : itfirst_niwan
+SID               : S-1-5-21-2300934295-2590698982-43176629-1162
+Surname           : Wang
+UserPrincipalName : niwan@it-first.com.cn
+
+DistinguishedName : CN=Chris Dong,OU=user,OU=resource,OU=itfirst,OU=CLOUD,DC=if
+                    cloud,DC=com
+Enabled           : True
+GivenName         : Chris
+Name              : Chris Dong
+ObjectClass       : user
+ObjectGUID        : c2cc8ad1-0daa-45eb-84ca-848cd6f67073
+SamAccountName    : itfirst_chrisd
+SID               : S-1-5-21-2300934295-2590698982-43176629-1163
+Surname           : Dong
+UserPrincipalName : chrisd@it-first.com.cn
+
+DistinguishedName : CN=BACKUPSERVICE,OU=SERVICEACCOUNT,OU=INTERNAL,DC=ifcloud,D
+                    C=com
+Enabled           : True
+GivenName         : BACKUPSERVICE
+Name              : BACKUPSERVICE
+ObjectClass       : user
+ObjectGUID        : 5f1ba6c5-bdc0-4033-8de8-163102cf8195
+SamAccountName    : backupservice
+SID               : S-1-5-21-2300934295-2590698982-43176629-1180
+Surname           : 
+UserPrincipalName : backupservice@ifcloud.com
+
+DistinguishedName : CN=SQLSERVICE,OU=SERVICEACCOUNT,OU=INTERNAL,DC=ifcloud,DC=c
+                    om
+Enabled           : True
+GivenName         : SQLSERVICE
+Name              : SQLSERVICE
+ObjectClass       : user
+ObjectGUID        : 9531a976-36f6-4ac1-9e1e-c37a85556ddd
+SamAccountName    : sqlservice
+SID               : S-1-5-21-2300934295-2590698982-43176629-1203
+Surname           : 
+UserPrincipalName : sqlservice@ifcloud.com
+
+DistinguishedName : CN=SSPFARMACCOUNT,OU=SERVICEACCOUNT,OU=INTERNAL,DC=ifcloud,
+                    DC=com
+Enabled           : True
+GivenName         : SSPFARMACCOUNT
+Name              : SSPFARMACCOUNT
+ObjectClass       : user
+ObjectGUID        : 4bd0d947-e271-4df1-80a7-5e4bc33ab736
+SamAccountName    : sspfarmaccount
+SID               : S-1-5-21-2300934295-2590698982-43176629-1206
+Surname           : 
+UserPrincipalName : sspfarmaccount@ifcloud.com
+
+DistinguishedName : CN=SSPSERVICEACCOUNT,OU=SERVICEACCOUNT,OU=INTERNAL,DC=ifclo
+                    ud,DC=com
+Enabled           : True
+GivenName         : SSPSERVICEACCOUNT
+Name              : SSPSERVICEACCOUNT
+ObjectClass       : user
+ObjectGUID        : 509d56b4-93f3-44b5-bf7c-da04c024f2ed
+SamAccountName    : sspserviceaccount
+SID               : S-1-5-21-2300934295-2590698982-43176629-1207
+Surname           : 
+UserPrincipalName : sspserviceaccount@ifcloud.com
+
+DistinguishedName : CN=PORTALFARMACCOUNT,OU=SERVICEACCOUNT,OU=INTERNAL,DC=ifclo
+                    ud,DC=com
+Enabled           : True
+GivenName         : PORTALFARMACCOUNT
+Name              : PORTALFARMACCOUNT
+ObjectClass       : user
+ObjectGUID        : fd801100-bea3-4634-9e1c-14c68163eb98
+SamAccountName    : portalfarmaccount
+SID               : S-1-5-21-2300934295-2590698982-43176629-1208
+Surname           : 
+UserPrincipalName : portalfarmaccount@ifcloud.com
+
+DistinguishedName : CN=PORTALSERVICEACCOUNT,OU=SERVICEACCOUNT,OU=INTERNAL,DC=if
+                    cloud,DC=com
+Enabled           : True
+GivenName         : PORTALSERVICEACCOUNT
+Name              : PORTALSERVICEACCOUNT
+ObjectClass       : user
+ObjectGUID        : 89527bc0-bf8c-4d33-b9ea-d92f806e99fa
+SamAccountName    : portalserviceaccount
+SID               : S-1-5-21-2300934295-2590698982-43176629-1209
+Surname           : 
+UserPrincipalName : portalserviceaccount@ifcloud.com
+
+DistinguishedName : CN=Ops_Action,OU=SERVICEACCOUNT,OU=INTERNAL,DC=ifcloud,DC=c
+                    om
+Enabled           : True
+GivenName         : Ops_Action
+Name              : Ops_Action
+ObjectClass       : user
+ObjectGUID        : 6243a4cf-6ed5-4216-932a-8d8967e06dc9
+SamAccountName    : ops_action
+SID               : S-1-5-21-2300934295-2590698982-43176629-1210
+Surname           : 
+UserPrincipalName : ops_action@ifcloud.com
+
+DistinguishedName : CN=Ops_SDK,OU=SERVICEACCOUNT,OU=INTERNAL,DC=ifcloud,DC=com
+Enabled           : True
+GivenName         : Ops_SDK
+Name              : Ops_SDK
+ObjectClass       : user
+ObjectGUID        : 0faed03e-034a-4eb2-bbc4-878d039534fc
+SamAccountName    : ops_sdk
+SID               : S-1-5-21-2300934295-2590698982-43176629-1211
+Surname           : 
+UserPrincipalName : ops_sdk@ifcloud.com
+
+DistinguishedName : CN=Ops_DW_Reader,OU=SERVICEACCOUNT,OU=INTERNAL,DC=ifcloud,D
+                    C=com
+Enabled           : True
+GivenName         : Ops_DW_Reader
+Name              : Ops_DW_Reader
+ObjectClass       : user
+ObjectGUID        : e4694079-b711-4ba8-99b0-8973193da5cf
+SamAccountName    : ops_dw_reader
+SID               : S-1-5-21-2300934295-2590698982-43176629-1212
+Surname           : 
+UserPrincipalName : ops_dw_reader@ifcloud.com
+
+DistinguishedName : CN=Ops_DW_Writer,OU=SERVICEACCOUNT,OU=INTERNAL,DC=ifcloud,D
+                    C=com
+Enabled           : True
+GivenName         : Ops_DW_Writer
+Name              : Ops_DW_Writer
+ObjectClass       : user
+ObjectGUID        : 653e6c46-9c04-4f26-ac36-3798f7374222
+SamAccountName    : ops_dw_writer
+SID               : S-1-5-21-2300934295-2590698982-43176629-1213
+Surname           : 
+UserPrincipalName : ops_dw_writer@ifcloud.com
+
+DistinguishedName : CN=extest_7598906bb3674,CN=Users,DC=ifcloud,DC=com
+Enabled           : True
+GivenName         : 
+Name              : extest_7598906bb3674
+ObjectClass       : user
+ObjectGUID        : 826f5bf8-6079-4229-a86e-08f8c508d960
+SamAccountName    : extest_7598906bb3674
+SID               : S-1-5-21-2300934295-2590698982-43176629-2105
+Surname           : 
+UserPrincipalName : extest_7598906bb3674@ifcloud.com
+
+DistinguishedName : CN=APPSERVICE,OU=SERVICEACCOUNT,OU=INTERNAL,DC=ifcloud,DC=c
+                    om
+Enabled           : True
+GivenName         : APPSERVICE
+Name              : APPSERVICE
+ObjectClass       : user
+ObjectGUID        : 693325a1-26f7-4fd4-9cef-8a142f2d3969
+SamAccountName    : appservice
+SID               : S-1-5-21-2300934295-2590698982-43176629-1221
+Surname           : 
+UserPrincipalName : appservice@ifcloud.com
+
+DistinguishedName : CN=Jennifer Yang,OU=user,OU=resource,OU=itfirst,OU=CLOUD,DC
+                    =ifcloud,DC=com
+Enabled           : True
+GivenName         : Jennifer
+Name              : Jennifer Yang
+ObjectClass       : user
+ObjectGUID        : 39452e64-309e-4676-9fc7-76ba59a1c5df
+SamAccountName    : eb699b0d-9fcd-44e5-
+SID               : S-1-5-21-2300934295-2590698982-43176629-1227
+Surname           : Yang
+UserPrincipalName : jennifery@it-first.com.cn
+
+DistinguishedName : CN=Fynn Zhou,OU=user,OU=resource,OU=itfirst,OU=CLOUD,DC=ifc
+                    loud,DC=com
+Enabled           : False
+GivenName         : Zhou
+Name              : Fynn Zhou
+ObjectClass       : user
+ObjectGUID        : 66781c6c-3ac8-4e95-b682-801ac25ca560
+SamAccountName    : 55a0dda8-30be-45df-
+SID               : S-1-5-21-2300934295-2590698982-43176629-1228
+Surname           : Fynn
+UserPrincipalName : fynnz@it-first.com.cn
+
+DistinguishedName : CN=Ike Ai,OU=user,OU=resource,OU=emc,OU=CLOUD,DC=ifcloud,DC
+                    =com
+Enabled           : True
+GivenName         : Ike
+Name              : Ike Ai
+ObjectClass       : user
+ObjectGUID        : 81b2a577-148c-4848-bbfd-2823acd21715
+SamAccountName    : 9bdb834c-3b44-427f-
+SID               : S-1-5-21-2300934295-2590698982-43176629-1274
+Surname           : Ai
+UserPrincipalName : ikeai@emc.ifcloud.com
+
+DistinguishedName : CN=胡翔宇,OU=user,OU=resource,OU=initial,OU=CLOUD,DC=ifcloud,D
+                    C=com
+Enabled           : True
+GivenName         : 翔宇
+Name              : 胡翔宇
+ObjectClass       : user
+ObjectGUID        : 3cfe2cc9-c639-4c64-a0dc-642aff6ea31e
+SamAccountName    : 20712fba-4f0f-489b-
+SID               : S-1-5-21-2300934295-2590698982-43176629-1344
+Surname           : 胡
+UserPrincipalName : huxiangyu@initial.ifcloud.com
+
+DistinguishedName : CN=周立,OU=user,OU=resource,OU=wicresoft,OU=CLOUD,DC=ifcloud,
+                    DC=com
+Enabled           : True
+GivenName         : 立
+Name              : 周立
+ObjectClass       : user
+ObjectGUID        : b731da09-9db1-4364-beb5-50fe49b4a659
+SamAccountName    : 0a531081-aa44-49e8-
+SID               : S-1-5-21-2300934295-2590698982-43176629-1423
+Surname           : 周
+UserPrincipalName : zhouli@wicresoft.ifcloud.com
+
+DistinguishedName : CN=梁伟德,OU=user,OU=resource,OU=wicresoft,OU=CLOUD,DC=ifcloud
+                    ,DC=com
+Enabled           : True
+GivenName         : 伟德
+Name              : 梁伟德
+ObjectClass       : user
+ObjectGUID        : 6d57065a-e216-4a21-83de-1d887cd8127a
+SamAccountName    : df0f9297-59e2-484c-
+SID               : S-1-5-21-2300934295-2590698982-43176629-1445
+Surname           : 梁
+UserPrincipalName : wadeliang@wicresoft.ifcloud.com
+
+DistinguishedName : CN=屈中泠,OU=user,OU=resource,OU=wicresoft,OU=CLOUD,DC=ifcloud
+                    ,DC=com
+Enabled           : True
+GivenName         : 中泠
+Name              : 屈中泠
+ObjectClass       : user
+ObjectGUID        : 7bf7611a-f43d-4d2b-bf79-8963d5896f43
+SamAccountName    : 82459e1f-1026-4af0-
+SID               : S-1-5-21-2300934295-2590698982-43176629-1446
+Surname           : 屈
+UserPrincipalName : adamsq@wicresoft.ifcloud.com
+
+DistinguishedName : CN=方敏,OU=user,OU=resource,OU=wicresoft,OU=CLOUD,DC=ifcloud,
+                    DC=com
+Enabled           : True
+GivenName         : 敏
+Name              : 方敏
+ObjectClass       : user
+ObjectGUID        : 3ccfc3ff-cee6-4b21-b693-871673f4b03e
+SamAccountName    : cc855c64-945e-43ac-
+SID               : S-1-5-21-2300934295-2590698982-43176629-1447
+Surname           : 方
+UserPrincipalName : asherf@wicresoft.ifcloud.com
+
+DistinguishedName : CN=葛晓波,OU=user,OU=resource,OU=wicresoft,OU=CLOUD,DC=ifcloud
+                    ,DC=com
+Enabled           : True
+GivenName         : 晓波
+Name              : 葛晓波
+ObjectClass       : user
+ObjectGUID        : 0b0636fe-4619-47ba-929c-dca357ce5eb9
+SamAccountName    : 28d1d16e-a306-472c-
+SID               : S-1-5-21-2300934295-2590698982-43176629-1488
+Surname           : 葛
+UserPrincipalName : xbg@wicresoft.ifcloud.com
+
+DistinguishedName : CN=顾主强,OU=user,OU=resource,OU=wicresoft,OU=CLOUD,DC=ifcloud
+                    ,DC=com
+Enabled           : True
+GivenName         : 主强
+Name              : 顾主强
+ObjectClass       : user
+ObjectGUID        : 53c09d39-43a4-4c4f-8b8a-05a0c533e9c5
+SamAccountName    : a95ea0a0-0a63-4696-
+SID               : S-1-5-21-2300934295-2590698982-43176629-1489
+Surname           : 顾
+UserPrincipalName : ericgu@wicresoft.ifcloud.com
+
+DistinguishedName : CN=ceshi1,OU=user,OU=resource,OU=emc,OU=CLOUD,DC=ifcloud,DC
+                    =com
+Enabled           : True
+GivenName         : ceshi1
+Name              : ceshi1
+ObjectClass       : user
+ObjectGUID        : bc403178-d1e8-4497-8832-32a4217b5a80
+SamAccountName    : a64a0e35-aa0a-4707-
+SID               : S-1-5-21-2300934295-2590698982-43176629-1537
+Surname           : ceshi1
+UserPrincipalName : ceshi1@emc.ifcloud.com
+
+DistinguishedName : CN=ceshi2,OU=user,OU=resource,OU=emc,OU=CLOUD,DC=ifcloud,DC
+                    =com
+Enabled           : True
+GivenName         : ceshi2
+Name              : ceshi2
+ObjectClass       : user
+ObjectGUID        : 8b5d89b5-1b19-4bb7-ab1e-95d072a4e1cc
+SamAccountName    : 8740f12a-cd00-4fee-
+SID               : S-1-5-21-2300934295-2590698982-43176629-1539
+Surname           : cesih2
+UserPrincipalName : ceshi2@emc.ifcloud.com
+
+DistinguishedName : CN=孙琪,OU=user,OU=resource,OU=wicresoft,OU=CLOUD,DC=ifcloud,
+                    DC=com
+Enabled           : True
+GivenName         : 琪
+Name              : 孙琪
+ObjectClass       : user
+ObjectGUID        : 91e3614a-c498-4198-aa5a-18941dc741f1
+SamAccountName    : b8f86578-2d72-4a30-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2671
+Surname           : 孙
+UserPrincipalName : ericsun@wicresoft.ifcloud.com
+
+DistinguishedName : CN=荣昊,OU=user,OU=resource,OU=wicresoft,OU=CLOUD,DC=ifcloud,
+                    DC=com
+Enabled           : True
+GivenName         : 昊
+Name              : 荣昊
+ObjectClass       : user
+ObjectGUID        : 7293c8d3-2a06-4110-b370-31210c71a6cd
+SamAccountName    : 53e10b3f-342f-4f1f-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2672
+Surname           : 荣
+UserPrincipalName : codeling@wicresoft.ifcloud.com
+
+DistinguishedName : CN=test dispalyname,OU=user,OU=resource,OU=itfirst,OU=CLOUD
+                    ,DC=ifcloud,DC=com
+Enabled           : True
+GivenName         : testlastna
+Name              : test dispalyname
+ObjectClass       : user
+ObjectGUID        : 21fa9b5e-88d6-44f5-b588-73e519030ddd
+SamAccountName    : 6eac4c47-50b2-4844-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2694
+Surname           : testfirstn
+UserPrincipalName : testlogin@it-first.com.cn
+
+DistinguishedName : CN=Benson Yang,OU=user,OU=resource,OU=ruson,OU=CLOUD,DC=ifc
+                    loud,DC=com
+Enabled           : True
+GivenName         : Benson
+Name              : Benson Yang
+ObjectClass       : user
+ObjectGUID        : 793fe6dc-fea1-4b67-9440-25d56c26182b
+SamAccountName    : 753be0a9-bc74-4f7b-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2717
+Surname           : Yang
+UserPrincipalName : admin@ruson.ifcloud.com
+
+DistinguishedName : CN=-,CN=Users,DC=ifcloud,DC=com
+Enabled           : False
+GivenName         : ceshi1
+Name              : -
+ObjectClass       : user
+ObjectGUID        : 2869be77-c3c1-4fde-b591-49753842965d
+SamAccountName    : -
+SID               : S-1-5-21-2300934295-2590698982-43176629-2731
+Surname           : ceshi1
+UserPrincipalName : 
+
+DistinguishedName : CN=Irene Bai,OU=user,OU=resource,OU=ruson,OU=CLOUD,DC=ifclo
+                    ud,DC=com
+Enabled           : True
+GivenName         : Bai
+Name              : Irene Bai
+ObjectClass       : user
+ObjectGUID        : 0bb542b4-17af-42ba-823b-dce0e3a425b5
+SamAccountName    : f024394c-48e2-46cf-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2756
+Surname           : Irene
+UserPrincipalName : br@ru-son.com
+
+DistinguishedName : CN=Benson,OU=user,OU=resource,OU=ruson,OU=CLOUD,DC=ifcloud,
+                    DC=com
+Enabled           : True
+GivenName         : Yang
+Name              : Benson
+ObjectClass       : user
+ObjectGUID        : 07cdb3dc-64c0-4a5b-b77d-6e6d9597651c
+SamAccountName    : e2852c76-5099-42e5-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2757
+Surname           : Benson
+UserPrincipalName : yqs@ru-son.com
+
+DistinguishedName : CN=Asher,OU=user,OU=resource,OU=ruson,OU=CLOUD,DC=ifcloud,D
+                    C=com
+Enabled           : True
+GivenName         : Asher
+Name              : Asher
+ObjectClass       : user
+ObjectGUID        : 6d1464c2-b654-40b2-8032-5aeeb27db31c
+SamAccountName    : c4c61486-d044-4261-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2758
+Surname           : Fang
+UserPrincipalName : asherf@ru-son.com
+
+DistinguishedName : CN=James,OU=user,OU=resource,OU=ruson,OU=CLOUD,DC=ifcloud,D
+                    C=com
+Enabled           : True
+GivenName         : James
+Name              : James
+ObjectClass       : user
+ObjectGUID        : 44570b63-bafb-412b-8faa-aec975e2351c
+SamAccountName    : 3b456655-cd8f-4b97-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2759
+Surname           : Tang
+UserPrincipalName : jamest@ru-son.com
+
+DistinguishedName : CN=Adams,OU=user,OU=resource,OU=ruson,OU=CLOUD,DC=ifcloud,D
+                    C=com
+Enabled           : True
+GivenName         : Adams
+Name              : Adams
+ObjectClass       : user
+ObjectGUID        : 16663062-12f2-4df8-96e8-2c11281bc03f
+SamAccountName    : 5578bea2-6519-4080-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2760
+Surname           : Qu
+UserPrincipalName : adamsq@ru-son.com
+
+DistinguishedName : CN=Chaoli,OU=user,OU=resource,OU=ruson,OU=CLOUD,DC=ifcloud,
+                    DC=com
+Enabled           : True
+GivenName         : Chao
+Name              : Chaoli
+ObjectClass       : user
+ObjectGUID        : 2c42016b-8675-4469-86ee-85bc3b67a307
+SamAccountName    : 7e011184-039a-4e42-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2761
+Surname           : Li
+UserPrincipalName : lc@ru-son.com
+
+DistinguishedName : CN=Huyumiao,OU=user,OU=resource,OU=ruson,OU=CLOUD,DC=ifclou
+                    d,DC=com
+Enabled           : True
+GivenName         : Yumiao
+Name              : Huyumiao
+ObjectClass       : user
+ObjectGUID        : 3ff9c6d3-e8f8-4338-bb8c-e1bf56871fff
+SamAccountName    : 173b6213-56eb-4bc6-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2766
+Surname           : Hu
+UserPrincipalName : hym@ru-son.com
+
+DistinguishedName : CN=Mei Xiangyi,OU=user,OU=resource,OU=ruson,OU=CLOUD,DC=ifc
+                    loud,DC=com
+Enabled           : True
+GivenName         : Xiangyi
+Name              : Mei Xiangyi
+ObjectClass       : user
+ObjectGUID        : bee41ceb-9d6a-4fb2-bc7d-ff2f4117feff
+SamAccountName    : fdd156a3-86ab-48d2-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2767
+Surname           : Mei
+UserPrincipalName : mxy@ru-son.com
+
+DistinguishedName : CN=账号管理员,OU=user,OU=resource,OU=ucgw,OU=CLOUD,DC=ifcloud,DC
+                    =com
+Enabled           : True
+GivenName         : 管理员
+Name              : 账号管理员
+ObjectClass       : user
+ObjectGUID        : 886f5617-dda4-42f7-921d-66fd361220cf
+SamAccountName    : ef94d9b4-5f03-4c03-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2792
+Surname           : 账号
+UserPrincipalName : admin@ucgw.cn
+
+DistinguishedName : CN=方敏,OU=user,OU=resource,OU=ucgw,OU=CLOUD,DC=ifcloud,DC=co
+                    m
+Enabled           : True
+GivenName         : 敏
+Name              : 方敏
+ObjectClass       : user
+ObjectGUID        : e438380d-f46d-47ec-8499-5c31451ebfd2
+SamAccountName    : ed4a742d-3509-4c42-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2794
+Surname           : 方
+UserPrincipalName : asherf@ucgw.cn
+
+DistinguishedName : CN=叶正勇,OU=user,OU=resource,OU=ucgw,OU=CLOUD,DC=ifcloud,DC=c
+                    om
+Enabled           : True
+GivenName         : 正勇
+Name              : 叶正勇
+ObjectClass       : user
+ObjectGUID        : 4b7111ef-d4b4-4030-b37e-f92564794246
+SamAccountName    : 5d39eed9-d5a6-47f9-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2795
+Surname           : 叶
+UserPrincipalName : yzy@ucgw.cn
+
+DistinguishedName : CN=高澜,OU=user,OU=resource,OU=ucgw,OU=CLOUD,DC=ifcloud,DC=co
+                    m
+Enabled           : True
+GivenName         : 澜
+Name              : 高澜
+ObjectClass       : user
+ObjectGUID        : bb0b5ffe-e646-4526-835c-a44fa1534f92
+SamAccountName    : 23703c26-4a83-4037-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2796
+Surname           : 高
+UserPrincipalName : tonygao@ucgw.cn
+
+DistinguishedName : CN=屈中泠,OU=user,OU=resource,OU=ucgw,OU=CLOUD,DC=ifcloud,DC=c
+                    om
+Enabled           : True
+GivenName         : 中泠
+Name              : 屈中泠
+ObjectClass       : user
+ObjectGUID        : b989e7f0-3e9d-4ae9-b560-046457d82ddc
+SamAccountName    : 3689d988-5c31-49e6-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2819
+Surname           : 屈
+UserPrincipalName : adamsq@ucgw.cn
+
+DistinguishedName : CN=沈惠,OU=user,OU=resource,OU=ucgw,OU=CLOUD,DC=ifcloud,DC=co
+                    m
+Enabled           : True
+GivenName         : 惠
+Name              : 沈惠
+ObjectClass       : user
+ObjectGUID        : 931453ea-9f27-45d7-a07a-4b56f8437c02
+SamAccountName    : eefb0a66-68b1-4b3a-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2821
+Surname           : 沈
+UserPrincipalName : fionas@ucgw.cn
+
+DistinguishedName : CN=陶老师,OU=user,OU=resource,OU=yangpu,OU=CLOUD,DC=ifcloud,DC
+                    =com
+Enabled           : True
+GivenName         : 老师
+Name              : 陶老师
+ObjectClass       : user
+ObjectGUID        : 34960e63-18a8-48b4-a2a6-ac899fbc65fd
+SamAccountName    : 30afcc65-46f2-4b1f-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2830
+Surname           : 陶
+UserPrincipalName : taolaoshi@yangpu.ifcloud.com
+
+DistinguishedName : CN=杨老师,OU=user,OU=resource,OU=yangpu,OU=CLOUD,DC=ifcloud,DC
+                    =com
+Enabled           : True
+GivenName         : 老师
+Name              : 杨老师
+ObjectClass       : user
+ObjectGUID        : 87ca3312-456c-4ade-b1d6-f37179946f8a
+SamAccountName    : 1196648e-2850-4580-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2832
+Surname           : 杨
+UserPrincipalName : yanglaoshi@yangpu.ifcloud.com
+
+DistinguishedName : CN=梁学生,OU=user,OU=resource,OU=yangpu,OU=CLOUD,DC=ifcloud,DC
+                    =com
+Enabled           : True
+GivenName         : 学生
+Name              : 梁学生
+ObjectClass       : user
+ObjectGUID        : b85acece-77c6-4d04-a44f-5a82544adfce
+SamAccountName    : f449a436-23f9-4a00-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2833
+Surname           : 梁
+UserPrincipalName : liang@yangpu.ifcloud.com
+
+DistinguishedName : CN=sales,OU=user,OU=resource,OU=ruson,OU=CLOUD,DC=ifcloud,D
+                    C=com
+Enabled           : True
+GivenName         : sales
+Name              : sales
+ObjectClass       : user
+ObjectGUID        : d6ca42b7-f64b-4235-84b9-f6f37337ec47
+SamAccountName    : a10a0aaa-f447-4fe5-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2840
+Surname           : s
+UserPrincipalName : sales@ru-son.com
+
+DistinguishedName : CN=hr,OU=user,OU=resource,OU=ruson,OU=CLOUD,DC=ifcloud,DC=c
+                    om
+Enabled           : True
+GivenName         : hr
+Name              : hr
+ObjectClass       : user
+ObjectGUID        : e856ac3e-e836-47cc-ace8-a8cdca4d4346
+SamAccountName    : 15306fad-6384-4263-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2841
+Surname           : hr
+UserPrincipalName : hr@ru-son.com
+
+DistinguishedName : CN=黄菊花临时,OU=user,OU=resource,OU=ucgw,OU=CLOUD,DC=ifcloud,DC
+                    =com
+Enabled           : True
+GivenName         : 菊花
+Name              : 黄菊花临时
+ObjectClass       : user
+ObjectGUID        : 6bc506bb-d3e5-4c11-a54f-93416652755c
+SamAccountName    : 9ed94e24-592d-41ca-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2843
+Surname           : 黄
+UserPrincipalName : jhhuang@ucgw.cn
+
+DistinguishedName : CN=hjh,OU=user,OU=resource,OU=ruson,OU=CLOUD,DC=ifcloud,DC=
+                    com
+Enabled           : True
+GivenName         : jinhua
+Name              : hjh
+ObjectClass       : user
+ObjectGUID        : c8f1b95d-ffd1-48da-9178-90a34edd151c
+SamAccountName    : 8136d913-78b6-4428-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2886
+Surname           : huang
+UserPrincipalName : hjh@ru-son.com
+
+DistinguishedName : CN=wsg,OU=user,OU=resource,OU=ruson,OU=CLOUD,DC=ifcloud,DC=
+                    com
+Enabled           : True
+GivenName         : shigui
+Name              : wsg
+ObjectClass       : user
+ObjectGUID        : 79d8b2e0-0f52-415f-8dee-f5f0ebe42493
+SamAccountName    : 8fb37e5d-3a65-4ed2-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2887
+Surname           : wang
+UserPrincipalName : wsg@ru-son.com
+
+DistinguishedName : CN=zhangwei,OU=user,OU=resource,OU=ruson,OU=CLOUD,DC=ifclou
+                    d,DC=com
+Enabled           : True
+GivenName         : wei
+Name              : zhangwei
+ObjectClass       : user
+ObjectGUID        : bb59fce9-2f5a-4891-96c8-cb7b4f5143df
+SamAccountName    : 66b15612-c260-41ed-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2888
+Surname           : zhang
+UserPrincipalName : zw@ru-son.com
+
+DistinguishedName : CN=zhangqiming,OU=user,OU=resource,OU=ruson,OU=CLOUD,DC=ifc
+                    loud,DC=com
+Enabled           : True
+GivenName         : qiming
+Name              : zhangqiming
+ObjectClass       : user
+ObjectGUID        : efeb02c1-2f13-492b-822f-146fe23821ff
+SamAccountName    : 80292eb8-299f-47e7-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2889
+Surname           : zhang
+UserPrincipalName : zqm@ru-son.com
+
+DistinguishedName : CN=李博,OU=user,OU=resource,OU=ucgw,OU=CLOUD,DC=ifcloud,DC=co
+                    m
+Enabled           : True
+GivenName         : 博
+Name              : 李博
+ObjectClass       : user
+ObjectGUID        : 10a785c6-c9fa-49c5-afcd-c6bd51f0975f
+SamAccountName    : 2e3e2dcc-e898-4cf7-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2890
+Surname           : 李
+UserPrincipalName : libo@ucgw.cn
+
+DistinguishedName : CN=shaohui,OU=user,OU=resource,OU=ruson,OU=CLOUD,DC=ifcloud
+                    ,DC=com
+Enabled           : True
+GivenName         : hui
+Name              : shaohui
+ObjectClass       : user
+ObjectGUID        : 443495e6-f322-45b8-b59d-e5656259948f
+SamAccountName    : 45d9fda7-b80a-42ed-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2891
+Surname           : shao
+UserPrincipalName : sh@ru-son.com
+
+DistinguishedName : CN=yangxuezhen,OU=user,OU=resource,OU=ruson,OU=CLOUD,DC=ifc
+                    loud,DC=com
+Enabled           : True
+GivenName         : xuezhen
+Name              : yangxuezhen
+ObjectClass       : user
+ObjectGUID        : fb6397b4-94e7-4062-aeff-17d3656ed547
+SamAccountName    : 50482045-1db9-46ad-
+SID               : S-1-5-21-2300934295-2590698982-43176629-2892
+Surname           : yang
+UserPrincipalName : yxz@ru-son.com
